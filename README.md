@@ -17,8 +17,9 @@ I'm an AI Automation Developer building intelligent workflow systems with n8n, a
 - 🦾 Completed a Robotics & Automation internship at **CodeAlpha** — arm simulation, conveyor systems, IoT design
 - 🧩 Building automations with n8n, Apify, RapidAPI, Google Workspace, and Airtable
 - 💻 Open to connecting — reach out via email or LinkedIn below
+
 <p align="center">
-  <a href="https://github.com/aliayubawan51"><img src="https://visitor-badge.laobi.icu/badge?page_id=aliayubawan51.aliayubawan51&color=8A2BE2&style=for-the-badge&text=PROFILE+VIEWS" alt="Profile Views" /></a>
+  <a href="https://github.com/aliayubawan51"><img src="https://visitor-badge.laobi.icu/badge?page_id=aliayubawan51.aliayubawan51&color=8A2BE2&r=8A2BE2&left_text=PROFILE%20VIEWS" alt="Profile Views" /></a>
 </p>
 ---
  
