@@ -58,10 +58,11 @@ I'm an AI Automation Developer building intelligent workflow systems with n8n, a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliayubawan51&layout=compact&theme=tokyonight" height="165"/>
 </p>
 ---
-
+ 
 <p align="center">
-  <a href="https://www.linkedin.com/muhammad-a-765989297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-a-765989297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:aliayubmuhammad1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A40,100:2E9EF7&height=100&section=footer" />
+ 
